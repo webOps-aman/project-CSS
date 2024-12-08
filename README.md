@@ -13,4 +13,7 @@ Here are the main folders
     2_vol(sub-folder):-(Info)
      Design with hover effect only border-bottom show.
 
+    3_vol(sub-folder):-(Info)
+     Primary button 
+
 <!-- button-collection end here -->
