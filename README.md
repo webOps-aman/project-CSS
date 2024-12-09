@@ -6,7 +6,7 @@ Folder Structure:
 Here are the main folders
 
 <!-- button-collection start here -->
-1. <h2>Button-Collection</h2> (main-folder):-<br>
+1. <h2>Button-Collection</h2><br>
     1_vol(sub-folder):-(Info)
      Simple design button with hover effect.<br>
 
