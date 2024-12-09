@@ -6,14 +6,17 @@ Folder Structure:
 Here are the main folders
 
 <!-- button-collection start here -->
-1. button-collection (main-folder):-
+1. <h2>Button-Collection</h2> (main-folder):-<br>
     1_vol(sub-folder):-(Info)
-     Simple design button with hover effect.
+     Simple design button with hover effect.<br>
 
     2_vol(sub-folder):-(Info)
-     Design with hover effect only border-bottom show.
+     Design with hover effect only border-bottom show.<br>
 
     3_vol(sub-folder):-(Info)
-     Primary button 
+     Primary button <br>
+
+    4_vol(sub-folder):-(Info)
+    Secondary button <br>
 
 <!-- button-collection end here -->
